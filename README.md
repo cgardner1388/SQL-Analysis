@@ -20,16 +20,12 @@ Inspect the CSVs and sketch out an ERD of the tables.
 
 ![image](https://user-images.githubusercontent.com/83512824/146650183-48f8eff8-9c51-4042-8d48-7ae4a8a6a879.png)
 
-![image](https://user-images.githubusercontent.com/83512824/146650198-9d86d238-cbcf-4cd8-acd2-c74aaf5a3b01.png)
-
 #### Data Engineering
 
-* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+* Import each CSV file into the corresponding SQL table.
+* Set up the primary and foreign keys in SQL
 
-  * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.
-  * Be sure to create tables in the correct order to handle foreign keys.
-
-* Import each CSV file into the corresponding SQL table. **Note** be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
+![image](https://user-images.githubusercontent.com/83512824/146650198-9d86d238-cbcf-4cd8-acd2-c74aaf5a3b01.png)
 
 #### Data Analysis
 
