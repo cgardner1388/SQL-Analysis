@@ -1,16 +1,8 @@
 # SQL Analysis
 
-![sql.png](sql.png)
-
 ## Background
 
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
-
-1. Data Engineering
-
-3. Data Analysis
+I reviewed data sets on employees from the 1980s and 1990s. There were six different CSV files that I imported into SQL so that I could create tables in Postgres. After that was completed, I then manipulated the data by writing out various SQL queries which will be displayed below. 
 
 ## Instructions
 
